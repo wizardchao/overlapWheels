@@ -1,0 +1,7 @@
+{
+    "require": {
+        "inhere/sroute": "dev-master",
+        "predis/predis": "*",
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
